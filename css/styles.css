@@ -1,0 +1,50 @@
+
+.container{
+  margin-top: 4%;
+  text-align: center;
+  height: auto;
+  width: 540px;
+  padding: 3% 3%;
+  background-color: #e6e6e6;
+}
+
+.btn{
+  margin: 5px auto;
+}
+
+.form-control{
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.checkbox1{
+  float: left;
+  margin: auto;
+}
+
+.float_right{
+  float: right;
+}
+.btn-facebook{
+  background-color: #3b5998;
+}
+
+.btn-twitter{
+  background-color: #00acee;
+}
+
+.btn-google{
+  background-color: #EA4335;
+}
+
+.line{
+  margin-top: 40px;
+}
+
+.fcon{
+  margin-right: 4px;
+}
+
+.rh{
+  margin-bottom: 0;
+}
